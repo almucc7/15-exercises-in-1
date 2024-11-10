@@ -107,9 +107,9 @@ function evenOddNumber(){
 
 evenOddNumber();
 
-// Crea una función que reciba un parámetro de tipo string e imprima por consola el string revertido. (ejemplo: 'casa' => 'asac).
+//13. Crea una función que reciba un parámetro de tipo string e imprima por consola el string revertido. (ejemplo: 'casa' => 'asac):
 
-// Crea una función que imprima por consola la tabla de multiplicar de un número introducido como parámetro.
+//14. Crea una función que imprima por consola la tabla de multiplicar de un número introducido como parámetro:
 
-// Crea una función que reciba un número por parámetros e imprima por consola si el número recibido es un número primo.
+//15. Crea una función que reciba un número por parámetros e imprima por consola si el número recibido es un número primo:
 

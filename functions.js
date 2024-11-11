@@ -186,6 +186,7 @@ function checkNumber(num5){
         return false; // Todos los números pares mayores que 2 no son primos
     }
 
+    //Buscamos divisores de un numero impar a traves de i (los pares ya estan descartados):
     for (let i = 3; i <= num5 / 2; i += 2) { // Empezamos desde 3 y avanzamos de 2 en 2 (i=i+2)
         if (num5 % i === 0) {
             return false; // Si encuentra un divisor exacto, no es primo
